@@ -29,3 +29,4 @@ for word in words:
     story = story.replace(word, answers[word])
 
 print(story)
+print(story)
